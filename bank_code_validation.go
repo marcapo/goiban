@@ -27,7 +27,7 @@ package goiban
 import (
 	"strconv"
 
-	"github.com/fourcube/goiban-data"
+	data "github.com/marcapo/goiban-data"
 )
 
 func ValidateBankCode(iban *Iban, intermediateResult *ValidationResult, repo data.BankDataRepository) *ValidationResult {

@@ -29,11 +29,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/fourcube/goiban"
-	data "github.com/fourcube/goiban-data"
-	"github.com/fourcube/goiban-data-loader/loader"
-	co "github.com/fourcube/goiban/countries"
 	_ "github.com/go-sql-driver/mysql"
+	"github.com/marcapo/goiban"
+	data "github.com/marcapo/goiban-data"
+	"github.com/marcapo/goiban-data-loader/loader"
+	co "github.com/marcapo/goiban/countries"
 )
 
 var (

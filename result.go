@@ -24,7 +24,7 @@ THE SOFTWARE.
 
 package goiban
 
-import data "github.com/fourcube/goiban-data"
+import data "github.com/marcapo/goiban-data"
 
 /*
 	Represents the result of an IBAN validation.

@@ -29,8 +29,8 @@ import (
 	"fmt"
 	"log"
 
-	data "github.com/fourcube/goiban-data"
-	co "github.com/fourcube/goiban/countries"
+	data "github.com/marcapo/goiban-data"
+	co "github.com/marcapo/goiban/countries"
 	"github.com/tealeg/xlsx"
 )
 
