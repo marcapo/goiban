@@ -1,8 +1,5 @@
-github.com/fourcube/goiban v0.0.0-20190812181605-50ddc50d02e7 h1:k3ZpFD1bD1bdey59VPMEtdE+tDYDDEO+ihivy50OUOg=
 github.com/fourcube/goiban v0.0.0-20190812181605-50ddc50d02e7/go.mod h1:1fXqotG6xShb8s5MTdJ/hc6VFDepFq/iaN/fQ4OeY44=
-github.com/fourcube/goiban-data v0.0.0-20180515151907-ad39e148bb33 h1:rf84rz0ouN5yK4KEVLUg5z9TuoPuxmWgmv8YyEBpzsU=
 github.com/fourcube/goiban-data v0.0.0-20180515151907-ad39e148bb33/go.mod h1:6bRvvgM4+o2gdASRiSe9B1uz91hOSgMcQHJ2av/6Hy4=
-github.com/fourcube/goiban-data-loader v0.0.0-20190725174600-75dc5a4c9c69 h1:Tevilep5l5fLEVhY8ciEWazAttaVGMbwYHwb/3SpdRQ=
 github.com/fourcube/goiban-data-loader v0.0.0-20190725174600-75dc5a4c9c69/go.mod h1:WILi3rgjJCZRGLJfQ5cltxZI93DohVcTdDHyCEcduko=
 github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
 github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
@@ -11,6 +8,13 @@ github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORN
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
+github.com/marcapo/goiban v0.0.0-20210805142126-cb346bfacb52/go.mod h1:OiN6JRKlMxC1zMIq8CZ77ej3VFzR2TMuzeiP9CGGRb4=
+github.com/marcapo/goiban-data v0.0.0-20180515151907-ad39e148bb33/go.mod h1:6W31HKec1JdCjvWWD6xeexlhiUbE4WLyeYYMydf7eOM=
+github.com/marcapo/goiban-data v0.0.0-20210805141159-a3af3c71fa29 h1:DHffkLLn6WgUVp9VoEOVUNMbNQh0IOv1lw5yDvIzw/8=
+github.com/marcapo/goiban-data v0.0.0-20210805141159-a3af3c71fa29/go.mod h1:COTlzOXMZAaZym4hLQkJtP19QDZT8Qmw/Yp7ENhF04Q=
+github.com/marcapo/goiban-data-loader v0.0.0-20190725174600-75dc5a4c9c69/go.mod h1:1+Sz3+RlO6Y74gOdkrP4JdD/TKq/0v10TjfzbXsm1e0=
+github.com/marcapo/goiban-data-loader v0.0.0-20210805142744-99f72ab65c20 h1:BpixOB+XImh2A28H74ZfSuCvXNx0i1SgTfG14exWg9o=
+github.com/marcapo/goiban-data-loader v0.0.0-20210805142744-99f72ab65c20/go.mod h1:AC1Di/vQtgBUHnM8p3JuLEodKwgI0+cQQApctuIZX1s=
 github.com/tealeg/xlsx v1.0.5 h1:+f8oFmvY8Gw1iUXzPk+kz+4GpbDZPK1FhPiQRd+ypgE=
 github.com/tealeg/xlsx v1.0.5/go.mod h1:btRS8dz54TDnvKNosuAqxrM1QgN1udgk9O34bDCnORM=
 gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 h1:YR8cESwS4TdDjEe65xsg0ogRM/Nc3DYOhEAlW+xobZo=
